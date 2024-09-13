@@ -1,0 +1,97 @@
+### Puerto 1819 ###
+Experimento: 1 1000 b.txt en puerto: 1819
+
+real	0m32.675s
+user	0m3.037s
+sys	0m12.859s
+------------------------------------
+Experimento: 1 5000 b.txt en puerto: 1819
+
+real	0m10.913s
+user	0m1.599s
+sys	0m7.961s
+------------------------------------
+Experimento: 1 10000 b.txt en puerto: 1819
+
+real	0m3.716s
+user	0m0.779s
+sys	0m4.184s
+------------------------------------
+Experimento: 1 50000 b.txt en puerto: 1819
+
+real	0m8.274s
+user	0m0.262s
+sys	0m2.432s
+------------------------------------
+Experimento: 3 1000 b.txt en puerto: 1819
+
+real	0m37.393s
+user	0m7.807s
+sys	0m38.598s
+------------------------------------
+Experimento: 3 5000 b.txt en puerto: 1819
+
+real	0m9.475s
+user	0m6.447s
+sys	0m26.332s
+------------------------------------
+Experimento: 3 10000 b.txt en puerto: 1819
+
+real	0m30.519s
+user	0m2.922s
+sys	0m13.391s
+------------------------------------
+Experimento: 3 50000 b.txt en puerto: 1819
+
+real	0m5.865s
+user	0m0.871s
+sys	0m6.042s
+------------------------------------
+Experimento: 20 1000 m.txt en puerto: 1819
+
+real	0m16.673s
+user	0m11.295s
+sys	0m36.888s
+------------------------------------
+Experimento: 20 5000 m.txt en puerto: 1819
+
+real	0m28.898s
+user	0m9.346s
+sys	0m21.738s
+------------------------------------
+Experimento: 20 10000 m.txt en puerto: 1819
+
+real	0m37.542s
+user	0m4.392s
+sys	0m12.180s
+------------------------------------
+Experimento: 20 50000 m.txt en puerto: 1819
+
+real	0m9.285s
+user	0m2.674s
+sys	0m5.179s
+------------------------------------
+Experimento: 100 1000 s.txt en puerto: 1819
+
+real	0m5.478s
+user	0m7.336s
+sys	0m15.142s
+------------------------------------
+Experimento: 100 5000 s.txt en puerto: 1819
+
+real	0m5.149s
+user	0m5.284s
+sys	0m9.067s
+------------------------------------
+Experimento: 100 10000 s.txt en puerto: 1819
+
+real	0m10.437s
+user	0m4.755s
+sys	0m7.076s
+------------------------------------
+Experimento: 100 50000 s.txt en puerto: 1819
+
+real	0m18.431s
+user	0m5.810s
+sys	0m4.222s
+------------------------------------

@@ -1,0 +1,97 @@
+### Puerto 1818 ###
+Experimento: 1 1000 b.txt en puerto: 1818
+
+real	0m6.159s
+user	0m1.841s
+sys	0m6.533s
+------------------------------------
+Experimento: 1 5000 b.txt en puerto: 1818
+
+real	0m2.130s
+user	0m0.686s
+sys	0m2.224s
+------------------------------------
+Experimento: 1 10000 b.txt en puerto: 1818
+
+real	0m1.860s
+user	0m0.307s
+sys	0m1.879s
+------------------------------------
+Experimento: 1 50000 b.txt en puerto: 1818
+
+real	0m2.418s
+user	0m0.188s
+sys	0m1.496s
+------------------------------------
+Experimento: 3 1000 b.txt en puerto: 1818
+
+real	0m31.815s
+user	0m7.157s
+sys	0m19.671s
+------------------------------------
+Experimento: 3 5000 b.txt en puerto: 1818
+
+real	0m22.934s
+user	0m1.921s
+sys	0m8.349s
+------------------------------------
+Experimento: 3 10000 b.txt en puerto: 1818
+
+real	0m12.015s
+user	0m1.544s
+sys	0m7.040s
+------------------------------------
+Experimento: 3 50000 b.txt en puerto: 1818
+
+real	0m28.164s
+user	0m0.608s
+sys	0m4.723s
+------------------------------------
+Experimento: 20 1000 m.txt en puerto: 1818
+
+real	0m32.823s
+user	0m9.370s
+sys	0m21.197s
+------------------------------------
+Experimento: 20 5000 m.txt en puerto: 1818
+
+real	0m15.004s
+user	0m2.816s
+sys	0m9.902s
+------------------------------------
+Experimento: 20 10000 m.txt en puerto: 1818
+
+real	0m43.111s
+user	0m2.978s
+sys	0m7.722s
+------------------------------------
+Experimento: 20 50000 m.txt en puerto: 1818
+
+real	0m39.300s
+user	0m1.883s
+sys	0m7.256s
+------------------------------------
+Experimento: 100 1000 s.txt en puerto: 1818
+
+real	0m2.994s
+user	0m10.389s
+sys	0m24.100s
+------------------------------------
+Experimento: 100 5000 s.txt en puerto: 1818
+
+real	0m1.675s
+user	0m5.657s
+sys	0m10.957s
+------------------------------------
+Experimento: 100 10000 s.txt en puerto: 1818
+
+real	0m1.891s
+user	0m4.778s
+sys	0m9.954s
+------------------------------------
+Experimento: 100 50000 s.txt en puerto: 1818
+
+real	0m3.290s
+user	0m4.851s
+sys	0m6.406s
+------------------------------------
